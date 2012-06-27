@@ -6,6 +6,12 @@ Sample project
 
 Sample project available on SVN at : ''svn/projects/C4MRequestManagerSample''
 
+Usage
+-----
+
+Please refer to the C4MiOS_apiDemo project for implementation example.
+
+
 Change Logs
 -----------
 
